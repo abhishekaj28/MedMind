@@ -32,7 +32,7 @@ body{
 .btn1{
     font-size: 1rem;
     font-weight: 400;
-    background-color: #303054;
+    background-color: #1f1f41;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
@@ -41,14 +41,14 @@ body{
 }
 .btn1:hover{
     background-color: #e6edff;
-    color: #303054;
+    color: #14e20d;
 }
 
 /* Splash */
 .splash1{
     height: 100vh;
     width: 100%;
-    background-color: #7272c2;
+    background-color: #4cc72d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,7 +69,7 @@ body{
 }
 
 header{
-    background-color: #303054;
+    background-color: #4cc72d;
     width: 100%;
 }
 
@@ -99,7 +99,7 @@ nav{
 
 .cont-sec p a{
     text-decoration: none;
-    color: #303054;
+    color: #14e20d;
 }
 
 .cont-sec .social{
@@ -161,7 +161,7 @@ nav{
 
 .about-sec img{
     width: 350px;
-    border: 5px solid #303054;
+    border: 5px solid #4cc72d;
     border-radius: 5px;
 }
 
@@ -310,11 +310,11 @@ nav{
 }
 
 .tagline span{
-    color: #14e20d;
+    color:#212529;
 }
 
 footer{
-    background-color: #303054;
+    background-color: #4cc72d;
     color: #e6edff;
     padding-bottom: 50px;
 }
